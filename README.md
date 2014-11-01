@@ -6,6 +6,13 @@ thorough integration with django-user-accounts, adding comprehensive account
 management functionality. It is a foundation suitable for most sites that have
 user accounts.
 
+=====================================
+to access the main web app on the link provided, use the following usernames and passwords:
+
+username : user
+password : user
+=====================================
+
 
 Usage:
 
